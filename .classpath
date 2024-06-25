@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="lib/itextpdf-develop/itextpdf-develop/itext/src/main/java"/>
+	<classpathentry kind="src" path="lib/itextpdf-develop/itextpdf-develop/itext/src/test/java"/>
+	<classpathentry kind="src" path="lib/itextpdf-develop/itextpdf-develop/pdfa/src/main/java"/>
+	<classpathentry kind="src" path="lib/itextpdf-develop/itextpdf-develop/pdfa/src/test/java"/>
+	<classpathentry kind="src" path="lib/itextpdf-develop/itextpdf-develop/xmlworker/src/main/java"/>
+	<classpathentry kind="src" path="lib/itextpdf-develop/itextpdf-develop/xmlworker/src/test/java"/>
+	<classpathentry kind="src" path="lib/itextpdf-develop/itextpdf-develop/xtra/src/main/java"/>
+	<classpathentry kind="src" path="lib/itextpdf-develop/itextpdf-develop/xtra/src/test/java"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="lib/itextpdf-5.5.9.jar"/>
+	<classpathentry kind="lib" path="lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-j-8.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="lib/sqlite-jdbc-3.46.0.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
